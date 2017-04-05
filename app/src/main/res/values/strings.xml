@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Services</string>
+    <string name="services_title">Escolha um ex de service</string>
+    <string name="button_lancar_um">Lancar 1</string>
+    <string name="button_lancar_dois">Lancar 2</string>
+    <string name="button_lancar_tres">Lancar 3</string>
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+
+
+</resources>
